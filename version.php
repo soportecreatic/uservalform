@@ -16,7 +16,7 @@
 
 /**
  * @package   local_data_validation
- * @copyright 2018, Creatic SAS <soporte@creatic.co>. Developed by Juan Ricardo Arenas.
+ * @copyright 2018-2019, Creatic SAS <soporte@creatic.co>.
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
