@@ -22,9 +22,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2018010100;
+$plugin->version = 2019020500;
 $plugin->requires = 2018051703;
-$plugin->cron = 0;
 $plugin->component = 'local_uservalform';
-$plugin->maturity = MATURITY_BETA;
-$plugin->release = '0.1';
+$plugin->maturity = MATURITY_STABLE;
+$plugin->release = '1.0';
